@@ -137,6 +137,12 @@ nav.navbar {
 }
 
 
+#our_story > .center_center {
+    margin-top: 10rem;
+}
+
+
+
 
 #review {
     background-image: url('../img/food_review.jpg');
